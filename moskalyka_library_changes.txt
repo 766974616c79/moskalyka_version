@@ -1,1 +1,3 @@
-- Added script version checking
+- Possibility of configuring the log system
+- Removing unnecessary code
+- Changing the /config language now works
