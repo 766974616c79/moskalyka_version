@@ -1,3 +1,1 @@
-- Possibility of configuring the log system
-- Removing unnecessary code
-- Changing the /config language now works
+- Adding items is now compatible with core_inventory (metadata are available)

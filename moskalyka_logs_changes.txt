@@ -1,0 +1,6 @@
+- Addition of multiple script supports:
+    - Ox inventory
+    - My advent calendar system
+    - My snowball system
+
+- Correction of the ability to copy text
