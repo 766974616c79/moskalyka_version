@@ -1,6 +1,5 @@
-- Addition of multiple script supports:
-    - Ox inventory
-    - My advent calendar system
-    - My snowball system
-
-- Correction of the ability to copy text
+- Complete redesign
+- Global optimisation
+- Full configuration
+- Improved compatibility with LB Phone & Ox Inventory
+- Added compatibility with MoskalykA Suggestions & MoskalykA Unique ID
