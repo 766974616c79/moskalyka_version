@@ -1,1 +1,1 @@
-- Many graphical improvements to the configuration menu
+- Fix import error
